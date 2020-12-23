@@ -1,4 +1,3 @@
-# myPortfolio
 I created my portfolio that introduces who I am, my work, and how to contact me.
 
 The goal was to create a website that has responsive design to ensures that the web application will render well on a variety of devices and window or screen sizes.

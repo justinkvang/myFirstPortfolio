@@ -1,0 +1,31 @@
+/* background image to the website */
+body {
+    background-image: url(/Website-Images/websitebackground.jpg);
+    background-size: 100%;
+    background-position: center;
+}
+
+/* background for content in About Me and Portfolio*/
+#white {
+    background-color: white;
+    padding: 20px;
+    width: fit-content;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 60px;
+    margin-right: 20px;
+}
+
+/* background for contact-form */
+#contact-form {
+    background-color: white;
+    padding: 20px;
+    width: fit-content;
+    margin: 20px;
+}
+
+/* google font */
+#google-font {
+    font-family: "Oswald",sans-serif;
+}
+
