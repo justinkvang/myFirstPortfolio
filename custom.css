@@ -1,12 +1,12 @@
 /* background image to the website */
 body {
-    background-image: url(/Website-Images/websitebackground.jpg);
+    background-image: url(./Website-Images/websitebackground.jpg);
     background-size: 100%;
     background-position: center;
 }
 
 /* background for content in About Me and Portfolio*/
-#white {
+main {
     background-color: white;
     padding: 20px;
     width: fit-content;
@@ -27,5 +27,24 @@ body {
 /* google font */
 #google-font {
     font-family: "Oswald",sans-serif;
+}
+
+/* My photo width */
+#myphoto {
+    width: 250px;
+}
+
+/* footer with color */
+.footer {
+    position: absolute;
+    background-color: white;
+    border-style: solid;
+    border-color: rgb(33, 112, 249);
+    border-bottom: white;
+    border-width: 10px 0px 10px 0px;
+    bottom: 0;
+    width: 100%;
+    height: 80px;
+    line-height: 70px;
 }
 
