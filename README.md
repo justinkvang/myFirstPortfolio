@@ -14,4 +14,4 @@ I used Bootstrap to develop my portfolio site with the following items:
 -- LINKS -----------------
 
 Deployed Link : 
-Repository Link :
+Repository Link : https://github.com/justinkvang/myPortfolio
